@@ -11,6 +11,3 @@
 6. Statistics
 7. Hypothesis testing
 
-
-
-
