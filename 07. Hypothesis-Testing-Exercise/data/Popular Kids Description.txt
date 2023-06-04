@@ -1,0 +1,18 @@
+    Datafile Name: Popular Kids
+    Datafile Subject: Psychology, Social Science,
+    Story names: Students' Goals, What Makes Kids Popular,
+    Reference: Chase, M. A., and Dummer, G. M. (1992), "The Role of Sports as a Social Determinant for Children," Research Quarterly for Exercise and Sport, 63, 418-424
+    Description: Subjects were students in grades 4-6 from three school districts in Ingham and Clinton Counties, Michigan. Chase and Dummer stratified their sample, selecting students from urban, suburban, and rural school districts with approximately 1/3 of their sample coming from each district. Students indicated whether good grades, athletic ability, or popularity was most important to them. They also ranked four factors: grades, sports, looks, and money, in order of their importance for popularity. The questionnaire also asked for gender, grade level, and other demographic information.
+    Number of Cases 478
+    Variable Names:
+        Gender: Boy or girl
+        Grade: 4, 5 or 6
+        Age: Age in years
+        Race: White, Other
+        Urban/Rural: Rural, Suburban, or Urban school district
+        School: Brentwood Elementary, Brentwood Middle, Ridge, Sand, Eureka, Brown, Main, Portage, Westdale Middle
+        Goals: Student's choice in the personal goals question where options were 1 = Make Good Grades, 2 = Be Popular, 3 = Be Good in Sports
+        Grades: Rank of "make good grades" (1=most important for popularity, 4=least important)
+        Sports: Rank of "being good at sports" (1=most important for popularity, 4=least important)
+        Looks: Rank of "being handsome or pretty" (1=most important for popularity, 4=least important)
+        Money: Rank of "having lots of money" (1=most important for popularity, 4=least important) 
